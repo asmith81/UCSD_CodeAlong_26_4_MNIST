@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "ucsd-codealong-26-4-gan-mnist"
+version = "0.1.0"
+description = ""
+authors = ["asmith81 <alden.w.smith.iii@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
